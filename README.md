@@ -109,6 +109,6 @@ CHỌN CHỨC NĂNG:))
 
 ## Liên hệ
 
-Nếu có bất kỳ câu hỏi nào, vui lòng liên hệ qua Telegram: @oatdonemdume.
+Nếu có bất kỳ câu hỏi nào, vui lòng liên hệ qua Telegram: [@oatdonemdume](https://t.me/@oatdonemdume)
 
 ---
