@@ -46,9 +46,7 @@ python rdvnc.py
 #### Sử dụng Wget
 
 ```sh
-wget https://github.com/vinzcyun/vnc_random/archive/refs/heads/main.zip
-unzip main.zip
-cd vnc_random-main
+wget -O rdvnc.py https://raw.githubusercontent.com/vinzcyun/random_vnc/main/rdvnc.py
 python rdvnc.py
 ```
 
