@@ -1,1 +1,10 @@
-•CHÚC MỪNG MÀY ĐÃ DÍNH BOTNET, HAHAHHAHAHAHHAHAHAHA
+
+• Ở phiên bản 0.8 này cũng là phiên bản public beta đầu tiên đã sửa lỗi có liên quan đến các phiên bản trước, cụ thể như:
+Không hiện ip
+Không thể quét được 
+Gây lag vps hoặc die vps
+Hiển thị thông tin không đầy đủ
+
+Khi có bản cập nhật tiếp theo hệ thống sẽ thông báo trên màn hình này để thuận tiện cho việc cập nhật
+
+Nếu có thắc mắc gì vui lòng liên hệ telegram: @oatdonemdume
