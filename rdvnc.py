@@ -124,7 +124,7 @@ print("2: Quét theo Clientname")
 print("3: Quét theo mã quốc gia")
 print("4: Quét theo ASN của nhà cung cấp dịch vụ")
 option = int(input("Nhập lựa chọn\n••> "))
-print("---------------------------")
+print("---------------------------------")
 
 if option == 1:
     requests_count = int(input("Nhập số lần request để lấy IP random\n•••> "))
